@@ -6,25 +6,26 @@
     "pretest": "jshint ."
   },
   "dependencies": {
-    "compression": "^1.0.3",
-    "cors": "^2.5.2",
-    "errorhandler": "^1.1.1",
-    "lodash": "^3.9.3",
-    "loopback": "^2.14.0",
-    "loopback-boot": "^2.6.5",
-    "loopback-datasource-juggler": "^2.19.0",
+    "compression": "^1.6.0",
+    "cors": "^2.7.1",
+    "errorhandler": "^1.4.2",
+    "lodash": "^3.10.1",
+    "loopback": "^2.26.0",
+    "loopback-boot": "^2.15.0",
+    "loopback-datasource-juggler": "^2.43.0",
     "q": "^1.4.1",
-    "serve-favicon": "^2.0.1"
+    "serve-favicon": "^2.3.0"
   },
   "optionalDependencies": {
-    "loopback-explorer": "^1.1.0"
+    "loopback-component-explorer": "^2.1.1"
   },
   "devDependencies": {
-    "jshint": "^2.5.6"
+    "jshint": "^2.9.1-rc1"
   },
   "repository": {
     "type": "",
     "url": ""
   },
-  "description": "loopback-examples"
+  "description": "loopback-examples",
+  "license": "MIT"
 }
